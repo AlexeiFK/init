@@ -4,7 +4,6 @@ file="/etc/passwd"
 IFS=$'\n'
 i=0
 
-printf "\t| LOGIN\t\t\t|\tUID\t| PATH\t\n"
 if [ -f $file ]
 then
 	for line in $(cat $file | grep -v '#')
