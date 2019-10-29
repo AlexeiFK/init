@@ -1,4 +1,7 @@
+#Use nslookup on 12 task output address
+
 Server:		192.168.50.2
 Address:	192.168.50.2#53
 
-57.28.168.192.in-addr.arpa	name = su-i5.21-school.ru.
+21.28.168.192.in-addr.arpa	name = su-c3.21-school.ru.
+
